@@ -23,8 +23,9 @@ This portfolio captures the breadth and depth of that journey: from low-level ba
 - Trained CNNs and fully connected nets on **CIFAR-100**.  
 - Designed a **ResNet-style model** with custom residual blocks.  
 - Built a sliding-window style **detector** for object localization.  
-- **Deliverable:** [📄 HW3_CNNs_and_Image_Classification.pdf](./HW3_CNNs_and_Image_Classification.pdf)  
-
+- **Deliverable:** [📄 HW3_CNNs_and_Image_Classification.pdf](./HW3_CNNs_and_Image_Classification.pdf)
+- **Code:** [💻 HW3_code/](./hw3_code/)  
+  
 ---
 
 ### **HW4 – Generative Adversarial Networks (GANs)**
@@ -32,7 +33,8 @@ This portfolio captures the breadth and depth of that journey: from low-level ba
 - Explored **Spectral Norm GAN, WGAN, LS-GAN**.  
 - Experimented with training tricks: **label smoothing, top-k training**.  
 - Produced generated image samples showing strong convergence.  
-- **Deliverable:** [📄 HW4_Generative_Adversarial_Networks.pdf](./HW4_Generative_Adversarial_Networks.pdf)  
+- **Deliverable:** [📄 HW4_Generative_Adversarial_Networks.pdf](./HW4_Generative_Adversarial_Networks.pdf)
+- **Code:** [💻 HW4_code/](./hw4_code/)  
 
 ---
 
@@ -40,7 +42,8 @@ This portfolio captures the breadth and depth of that journey: from low-level ba
 - Explored **positional embeddings** (sinusoidal, RoPE).  
 - Implemented **corruption pretraining and fine-tuning** pipelines.  
 - Compared pretrained vs non-pretrained model performance.  
-- **Deliverable:** [📄 HW5_Transformers_and_Pretraining.pdf](./HW5_Transformers_and_Pretraining.pdf)  
+- **Deliverable:** [📄 HW5_Transformers_and_Pretraining.pdf](./HW5_Transformers_and_Pretraining.pdf)
+- **Code:** [💻 HW5_code/](./hw5_code/)  
 
 ---
 
