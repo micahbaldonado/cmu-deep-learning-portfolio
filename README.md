@@ -14,7 +14,7 @@ This portfolio captures the breadth and depth of that journey: from low-level ba
 - Compared **L2 vs BCE loss** across tasks.  
 - Tackled classic datasets: **linear separable, XOR, circle, sinusoid, swiss roll**, and nonlinear embeddings.  
 - **Deliverable:** [📄 HW2_Neural_Networks_From_Scratch.pdf](./HW2_Neural_Networks_From_Scratch.pdf)  
-- **Code:** [💻 HW2_code/](./HW2_code/)  
+- **Code:** [💻 HW2_code/](./hw2_code/)  
 
 ---
 
